@@ -1,0 +1,17 @@
+# https://www.robotstxt.org/robotstxt.html
+
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /auth
+
+Host: https://uventa-transport.ru
+Sitemap: https://uventa-transport.ru/sitemap.xml
+
+User-Agent: Yandex
+Allow: /
+Disallow: /admin
+Disallow: /auth
+
+Host: https://uventa-transport.ru
+Sitemap: https://uventa-transport.ru/sitemap.xml
